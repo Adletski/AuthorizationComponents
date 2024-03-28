@@ -1,8 +1,12 @@
 //
-//  File.swift
-//  
+//  AuthorizationAlert.swift
+//
 //
 //  Created by Adlet Zhantassov on 28.03.2024.
 //
 
 import Foundation
+
+public class AuthorizationAlert {
+    
+}
